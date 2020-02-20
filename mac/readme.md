@@ -1,0 +1,3 @@
+Liberland Wallet
+
+MacOS Build
