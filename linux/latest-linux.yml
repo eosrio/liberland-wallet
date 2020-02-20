@@ -1,9 +1,0 @@
-version: 1.0.1
-files:
-  - url: simpleos-1.0.1.AppImage
-    sha512: hvfsOMjX/EymQqHVPPTUR6o0sa+MJpPx7hcbMYJlqqOL1G5WtHNiNZtWhgX16F0blh3aH5/g19DwdzalHCit+Q==
-    size: 135560392
-    blockMapSize: 142556
-path: simpleos-1.0.1.AppImage
-sha512: hvfsOMjX/EymQqHVPPTUR6o0sa+MJpPx7hcbMYJlqqOL1G5WtHNiNZtWhgX16F0blh3aH5/g19DwdzalHCit+Q==
-releaseDate: '2020-02-20T07:57:19.188Z'
