@@ -1,8 +1,8 @@
 version: 0.9.5
 files:
   - url: Liberland-Wallet-Setup-0.9.5.exe
-    sha512: bYNwg3GMlsO2ToyZ856DECU1ktRshN01beeeVtW+XgoXv+y2NobgyBS4FBmLOTXNOnsIsrrKUrj0Mf56SEpfhw==
-    size: 90347329
+    sha512: tt9V23U2f60fXVoTWKPfMhYRFkOLrohlxaFLPVtHJojCp9pnj2ID9Frt7yL2WewlXCCwdcsSnyo0c8fzI6v64w==
+    size: 90344668
 path: Liberland-Wallet-Setup-0.9.5.exe
-sha512: bYNwg3GMlsO2ToyZ856DECU1ktRshN01beeeVtW+XgoXv+y2NobgyBS4FBmLOTXNOnsIsrrKUrj0Mf56SEpfhw==
-releaseDate: '2020-02-19T23:26:47.523Z'
+sha512: tt9V23U2f60fXVoTWKPfMhYRFkOLrohlxaFLPVtHJojCp9pnj2ID9Frt7yL2WewlXCCwdcsSnyo0c8fzI6v64w==
+releaseDate: '2020-02-19T23:48:57.154Z'
