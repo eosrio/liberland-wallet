@@ -1,8 +1,8 @@
 version: 1.0.1
 files:
   - url: Liberland-Wallet-1.0.1.dmg
-    sha512: Z10V+qhm9NMTCmril6EnBnzs5q2WJog9dU7HSDipi8V9Wr8nybYe5CbdNRlUcjIPT40XG4ixN9pXryFYYBQ1CA==
-    size: 127537461
+    sha512: WoItI6CQ4t79lExUH5fmoH0yZaP6uYQc324nFk/PpNhiJ3aWW2QvY3wa80LJ/v1VYb9qt22X5Zd0GFhwIuR4pQ==
+    size: 127503075
 path: Liberland-Wallet-1.0.1.dmg
-sha512: Z10V+qhm9NMTCmril6EnBnzs5q2WJog9dU7HSDipi8V9Wr8nybYe5CbdNRlUcjIPT40XG4ixN9pXryFYYBQ1CA==
-releaseDate: '2020-02-20T10:41:34.834Z'
+sha512: WoItI6CQ4t79lExUH5fmoH0yZaP6uYQc324nFk/PpNhiJ3aWW2QvY3wa80LJ/v1VYb9qt22X5Zd0GFhwIuR4pQ==
+releaseDate: '2020-02-20T13:41:51.842Z'
